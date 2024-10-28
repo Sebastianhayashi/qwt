@@ -2,7 +2,7 @@
 
 # Step 1: 安装 Qt 依赖
 echo "Installing Qt dependencies..."
-sudo yum install -y qt*
+sudo yum install -y qt5*
 
 # Step 2: 下载 qwt 6.3.0 源码
 echo "Downloading qwt 6.3.0 source..."
